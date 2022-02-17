@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Computer Structure">
+      <UniqueIdentifier>{1ab925ed-8139-44a2-aefd-adbcba44a415}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\STL">
+      <UniqueIdentifier>{cc7d12db-59da-4787-9d21-6837eb23b845}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\NewFilter1">
+      <UniqueIdentifier>{d64a51cc-b33f-425b-99a6-3d2d48002d86}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Clock_Replacement2.cpp">
+      <Filter>소스 파일\Computer Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="Clock_Replacement1.cpp">
+      <Filter>소스 파일\Computer Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="LRU.cpp">
+      <Filter>소스 파일\Computer Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="LFU.cpp">
+      <Filter>소스 파일\Computer Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="LFU_TEST.cpp">
+      <Filter>소스 파일\Computer Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="LRU_TEST.cpp">
+      <Filter>소스 파일\Computer Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="LRU_FINAL.cpp">
+      <Filter>소스 파일\Computer Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="LRU_FINAL2.cpp">
+      <Filter>소스 파일\Computer Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="LRU_FINAL3.cpp">
+      <Filter>소스 파일\Computer Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="LFU한.cpp">
+      <Filter>소스 파일\Computer Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="deque.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="find()함수 예제.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="input iterator예제.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="istream 예제.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="list.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="map예제.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="output iterator.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="p23.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerOperatorOverloading.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="SelfRef.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="set예제.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Shared_SmartPointer_use.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="SmartPointer.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="Unique_SmartPointer_use.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="vector 예제.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="vector_iter.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="weak_ptr_SmartPointer_use.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="랜덤 액세스반복자 예제.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="순방향 반복자 예제.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="스택 예제.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="양방향 반복자.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="연산을 정의한 네 가지 함수 템플릿.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="우선순위큐 예제.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="큐예제.cpp">
+      <Filter>소스 파일\STL</Filter>
+    </ClCompile>
+    <ClCompile Include="client_test.c">
+      <Filter>소스 파일\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="BiggestNumber.cpp">
+      <Filter>소스 파일\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="BiggestNumber_perm.cpp">
+      <Filter>소스 파일\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="prac.cpp">
+      <Filter>소스 파일\NewFilter1</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

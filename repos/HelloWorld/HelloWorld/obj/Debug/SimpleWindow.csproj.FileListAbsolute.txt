@@ -1,0 +1,8 @@
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\SimpleWindow.csprojResolveAssemblyReference.cache
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\SimpleWindow.csproj.GenerateResource.Cache
+C:\Users\nick1\OneDrive\문서\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Chapter_20.FormBackground.resources

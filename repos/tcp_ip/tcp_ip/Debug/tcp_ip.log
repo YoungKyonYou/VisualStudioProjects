@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of echo_server.c will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are echo_server.c, TCPIP_Src\Chapter5 소스코드\echo_server.c.
+  thread2_win.c
+  test_syn.c
+  AsynNotiEchoServ_win.c
+  코드를 생성하고 있습니다...
+  tcp_ip.vcxproj -> C:\Users\nick1\OneDrive\문서\Visual Studio 2015\Projects\tcp_ip\Debug\tcp_ip.exe
+  tcp_ip.vcxproj -> C:\Users\nick1\OneDrive\문서\Visual Studio 2015\Projects\tcp_ip\Debug\tcp_ip.pdb (Full PDB)

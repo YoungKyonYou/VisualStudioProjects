@@ -1,0 +1,9 @@
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\UsingControl\UsingControl\bin\Debug\UsingControl.exe.config
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\UsingControl\UsingControl\bin\Debug\UsingControl.exe
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\UsingControl\UsingControl\bin\Debug\UsingControl.pdb
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\UsingControl\UsingControl\obj\Debug\UsingControl.csprojResolveAssemblyReference.cache
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\UsingControl\UsingControl\obj\Debug\UsingControl.MainForm.resources
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\UsingControl\UsingControl\obj\Debug\UsingControl.Properties.Resources.resources
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\UsingControl\UsingControl\obj\Debug\UsingControl.csproj.GenerateResource.Cache
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\UsingControl\UsingControl\obj\Debug\UsingControl.exe
+c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\UsingControl\UsingControl\obj\Debug\UsingControl.pdb

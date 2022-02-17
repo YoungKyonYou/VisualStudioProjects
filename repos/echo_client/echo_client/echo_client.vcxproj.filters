@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Game">
+      <UniqueIdentifier>{9e8edaae-3e01-43b1-b8e8-697ae31dd654}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기타">
+      <UniqueIdentifier>{ebfd666b-9787-4d5c-84f2-4c4dfa7b630f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Game2">
+      <UniqueIdentifier>{47669236-5b4e-4cbf-a7cf-292cff0062b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Game3_snake">
+      <UniqueIdentifier>{ddfa1805-aa60-467f-a4fe-9cadf6ceebf3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Game4_tank">
+      <UniqueIdentifier>{bf3aaa3c-5ad4-4013-9c45-dfa277dec8e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\수업">
+      <UniqueIdentifier>{877dda72-4856-4619-bcde-8d07bdaaf336}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ch01_UdpClient.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="chat_clnt_win.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="ClientPrac.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="CmplRoutinesRecv_win.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="echo_client._win.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="news_receiver_win.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="oob_recv_win.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="OverlappedRecv_win.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="prac.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="SyncMutex_win.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleStar.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="main2.cpp">
+      <Filter>소스 파일\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="echo_client_win.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일\Game2</Filter>
+    </ClCompile>
+    <ClCompile Include="func.c">
+      <Filter>소스 파일\Game2</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.c">
+      <Filter>소스 파일\Game3_snake</Filter>
+    </ClCompile>
+    <ClCompile Include="echo_client2.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="op_client.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="op_server_win.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="uecho_client_win.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="file_client_win.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="ch05_tcpclient.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch06_udpclient.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch07_tcpclient.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_tcpclient.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="StableEchoClnt_hw2.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="ch19_threadClient.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch12_echoClient.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="JotWung_client.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="Jotmin_client.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="client_hw.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="ch14_news_receiver_win_textbook.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch14_receiver.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ueho_server_win.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch14_receiver_broadcast.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="JotHakClient.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="tt.c">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="lab.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="ch21_tcpclient.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_resuse_client.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Console.h">
+      <Filter>소스 파일\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="switch.h">
+      <Filter>소스 파일\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="func.h">
+      <Filter>소스 파일\Game2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

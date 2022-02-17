@@ -1,0 +1,4 @@
+﻿  RealEstate.cpp
+C:\Users\nick1\source\repos\teeeeeeeee\teeeeeeeee\RealEstate.cpp(57,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xec'이(가) 있습니다.
+C:\Users\nick1\source\repos\teeeeeeeee\teeeeeeeee\RealEstate.cpp(65,11): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xec'이(가) 있습니다.
+  teeeeeeeee.vcxproj -> C:\Users\nick1\source\repos\teeeeeeeee\x64\Debug\teeeeeeeee.exe

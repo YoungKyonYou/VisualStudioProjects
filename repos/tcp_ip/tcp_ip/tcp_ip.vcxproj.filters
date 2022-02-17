@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\2강">
+      <UniqueIdentifier>{5698aef8-aae9-4b55-845c-e41b5e177a8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1강">
+      <UniqueIdentifier>{1794d3fe-2604-4a52-a621-ee325d967165}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\21강">
+      <UniqueIdentifier>{7bf8d790-66c0-44ec-819e-7abe35e0e9f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\19강">
+      <UniqueIdentifier>{bb50d3ca-5a0e-41ef-828f-74bf4fa6cfd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\20강">
+      <UniqueIdentifier>{d6ede8e4-aff8-44ae-9430-07778a4594d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4강">
+      <UniqueIdentifier>{0f367acc-5ad7-407a-94a8-c43256ba62be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\12강">
+      <UniqueIdentifier>{9bba9a70-8e9f-42c8-86ca-7d291232f375}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\13강">
+      <UniqueIdentifier>{dd34b095-0d00-4880-abbc-82274763b1ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\14강">
+      <UniqueIdentifier>{ac7ad17c-bfdc-493d-82d4-b363d2bd48fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\22강">
+      <UniqueIdentifier>{1e2a4af7-1f19-44bd-a4a4-8b74332f11b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\23강">
+      <UniqueIdentifier>{ac92c3c5-b6ed-404f-811e-b6eec49d00de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\24강">
+      <UniqueIdentifier>{9ecaa41c-fc68-4ec9-8356-652eaa8acbf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\prac">
+      <UniqueIdentifier>{1097a371-2991-4148-a26d-f85f09f0d152}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6강">
+      <UniqueIdentifier>{f3019bf4-65f7-4f8b-a071-5f99a6c6b2dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\7강">
+      <UniqueIdentifier>{dfdc322f-f9d8-4a7f-970e-4fa09293ad0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\수업">
+      <UniqueIdentifier>{f00cfb1a-0f2b-4511-a27b-edfd108bc2d2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TCPIP_Src\Chapter1 소스코드\fd_seri.c">
+      <Filter>소스 파일\1강</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPIP_Src\Chapter1 소스코드\hello_client.c">
+      <Filter>소스 파일\1강</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPIP_Src\Chapter1 소스코드\hello_client_win.c">
+      <Filter>소스 파일\1강</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPIP_Src\Chapter1 소스코드\hello_server.c">
+      <Filter>소스 파일\1강</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPIP_Src\Chapter1 소스코드\hello_server_win.c">
+      <Filter>소스 파일\1강</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPIP_Src\Chapter1 소스코드\low_open.c">
+      <Filter>소스 파일\1강</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPIP_Src\Chapter1 소스코드\low_read.c">
+      <Filter>소스 파일\1강</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPIP_Src\Chapter5 소스코드\echo_client2.c">
+      <Filter>소스 파일\2강</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPIP_Src\Chapter5 소스코드\echo_server.c">
+      <Filter>소스 파일\2강</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPIP_Src\Chapter5 소스코드\op_client.c">
+      <Filter>소스 파일\2강</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPIP_Src\Chapter5 소스코드\op_client_win.c">
+      <Filter>소스 파일\2강</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPIP_Src\Chapter5 소스코드\op_server.c">
+      <Filter>소스 파일\2강</Filter>
+    </ClCompile>
+    <ClCompile Include="TCPIP_Src\Chapter5 소스코드\op_server_win.c">
+      <Filter>소스 파일\2강</Filter>
+    </ClCompile>
+    <ClCompile Include="thread2_win.c">
+      <Filter>소스 파일\19강</Filter>
+    </ClCompile>
+    <ClCompile Include="SyncCS_win.c">
+      <Filter>소스 파일\20강</Filter>
+    </ClCompile>
+    <ClCompile Include="SyncSema_win.c">
+      <Filter>소스 파일\20강</Filter>
+    </ClCompile>
+    <ClCompile Include="AsynNotiEchoServ_win.c">
+      <Filter>소스 파일\21강</Filter>
+    </ClCompile>
+    <ClCompile Include="echo_clinet_win.c">
+      <Filter>소스 파일\21강</Filter>
+    </ClCompile>
+    <ClCompile Include="echo_server.c">
+      <Filter>소스 파일\4강</Filter>
+    </ClCompile>
+    <ClCompile Include="echo_selectserv_win.c">
+      <Filter>소스 파일\12강</Filter>
+    </ClCompile>
+    <ClCompile Include="oob_send_win.c">
+      <Filter>소스 파일\13강</Filter>
+    </ClCompile>
+    <ClCompile Include="news_sender_win.c">
+      <Filter>소스 파일\14강</Filter>
+    </ClCompile>
+    <ClCompile Include="OverlappedSend_win.c">
+      <Filter>소스 파일\22강</Filter>
+    </ClCompile>
+    <ClCompile Include="CmplRouEchoServ_win.c">
+      <Filter>소스 파일\23강</Filter>
+    </ClCompile>
+    <ClCompile Include="IOCPEchoServ_win.c">
+      <Filter>소스 파일\23강</Filter>
+    </ClCompile>
+    <ClCompile Include="prac.c">
+      <Filter>소스 파일\21강</Filter>
+    </ClCompile>
+    <ClCompile Include="ServerPrac.c">
+      <Filter>소스 파일\21강</Filter>
+    </ClCompile>
+    <ClCompile Include="chat_serv_win.c">
+      <Filter>소스 파일\21강</Filter>
+    </ClCompile>
+    <ClCompile Include="prac2.c">
+      <Filter>소스 파일\22강</Filter>
+    </ClCompile>
+    <ClCompile Include="webserv_win.c">
+      <Filter>소스 파일\24강</Filter>
+    </ClCompile>
+    <ClCompile Include="ch01_UdpServer.c">
+      <Filter>소스 파일\prac</Filter>
+    </ClCompile>
+    <ClCompile Include="practice.c">
+      <Filter>소스 파일\prac</Filter>
+    </ClCompile>
+    <ClCompile Include="echo_server_win.c">
+      <Filter>소스 파일\4강</Filter>
+    </ClCompile>
+    <ClCompile Include="uecho_server_win.c">
+      <Filter>소스 파일\6강</Filter>
+    </ClCompile>
+    <ClCompile Include="file_server_win.c">
+      <Filter>소스 파일\7강</Filter>
+    </ClCompile>
+    <ClCompile Include="tcp_server.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="addr_test.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch05_tcpserver.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch06_udpserver.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch7_tcpserver.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch-8_dns.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_option.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_2.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_03.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch04_tcpserver.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="conv_addr_win.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch19_test.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch19_threadServer.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch12_select_echoServer.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="JotWung_server.c">
+      <Filter>소스 파일\prac</Filter>
+    </ClCompile>
+    <ClCompile Include="JootMin_server.c">
+      <Filter>소스 파일\prac</Filter>
+    </ClCompile>
+    <ClCompile Include="server_hw.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="news_sender_w.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch14_sender.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch14_sender_broadcast.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch20_mutex.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="JotHakServer.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="SyncEvent_win.c">
+      <Filter>소스 파일\20강</Filter>
+    </ClCompile>
+    <ClCompile Include="tt.c">
+      <Filter>소스 파일\20강</Filter>
+    </ClCompile>
+    <ClCompile Include="pracIO.c">
+      <Filter>소스 파일\21강</Filter>
+    </ClCompile>
+    <ClCompile Include="ch21_asyn_Server.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="ch09_resuse.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+    <ClCompile Include="test_syn.c">
+      <Filter>소스 파일\수업</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+﻿  client3.c
+C:\Users\nick1\source\repos\ComputerNetworkClient\ComputerNetworkClient\client3.c(79,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nick1\source\repos\ComputerNetworkClient\ComputerNetworkClient\client3.c(106,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test.c
+  코드를 생성하고 있습니다...
+  ComputerNetworkClient.vcxproj -> C:\Users\nick1\source\repos\ComputerNetworkClient\Debug\ComputerNetworkClient.exe

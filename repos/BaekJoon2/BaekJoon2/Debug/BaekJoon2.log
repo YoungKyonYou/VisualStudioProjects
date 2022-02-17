@@ -1,0 +1,5 @@
+﻿  빵집.cpp
+c:\users\nick1\onedrive\문서\visual studio 2015\projects\baekjoon2\baekjoon2\빵집.cpp(17): warning C4700: 초기화되지 않은 'r' 지역 변수를 사용했습니다.
+c:\users\nick1\onedrive\문서\visual studio 2015\projects\baekjoon2\baekjoon2\빵집.cpp(19): warning C4700: 초기화되지 않은 'c' 지역 변수를 사용했습니다.
+  BaekJoon2.vcxproj -> c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\BaekJoon2\Debug\BaekJoon2.exe
+  BaekJoon2.vcxproj -> c:\users\nick1\OneDrive\문서\Visual Studio 2015\Projects\BaekJoon2\Debug\BaekJoon2.pdb (Full PDB)

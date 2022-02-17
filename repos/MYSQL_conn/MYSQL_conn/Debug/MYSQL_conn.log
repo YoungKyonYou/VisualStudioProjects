@@ -1,0 +1,2 @@
+﻿  test.cpp
+c:\users\nick1\onedrive\문서\visual studio 2015\projects\mysql_conn\mysql_conn\test.cpp(1): fatal error C1083: 포함 파일을 열 수 없습니다. 'my_global.h': No such file or directory

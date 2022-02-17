@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\test">
+      <UniqueIdentifier>{5a058866-a70e-4c45-a844-65b2e87ccbf3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\prototype_client">
+      <UniqueIdentifier>{683cb614-cce9-4c7e-96de-614a7c64ce65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\final">
+      <UniqueIdentifier>{e52ba2ac-a710-4339-b5b9-07521a132d44}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="testClient.c">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="testClient2.c">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="testClient3.c">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="testClient4.c">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="testClient5.c">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="uecho_client_win.c">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="uecho_client_win4-2.c">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="uecho_client_win5.c">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="uecho_client_win6.c">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="uecho_client_win7.c">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="prototype_client2.c">
+      <Filter>소스 파일\prototype_client</Filter>
+    </ClCompile>
+    <ClCompile Include="prototype_client.c">
+      <Filter>소스 파일\prototype_client</Filter>
+    </ClCompile>
+    <ClCompile Include="prototype_client3.c">
+      <Filter>소스 파일\prototype_client</Filter>
+    </ClCompile>
+    <ClCompile Include="client1.c">
+      <Filter>소스 파일\final</Filter>
+    </ClCompile>
+    <ClCompile Include="client2.c">
+      <Filter>소스 파일\final</Filter>
+    </ClCompile>
+    <ClCompile Include="client3.c">
+      <Filter>소스 파일\final</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
